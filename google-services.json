@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166281788125",
+    "firebase_url": "https://qaapp-95895.firebaseio.com",
+    "project_id": "qaapp-95895",
+    "storage_bucket": "qaapp-95895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166281788125:android:d7b1a4df8ba31990773934",
+        "android_client_info": {
+          "package_name": "jp.techacademy.yoshiyuki.suganuma.qa_app3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166281788125-v3cf5ubhv8qp6tvd14mqgpsc6gpgt9j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Q5w1TbilJUeRFhEJolZaMYhKNMcuzGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166281788125-v3cf5ubhv8qp6tvd14mqgpsc6gpgt9j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
